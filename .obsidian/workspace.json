@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "e4dc2bd3d7f422c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3a900c581469d17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d86b52e6f9bdc08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tipo número.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c867f61825475e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metadata title, description y default.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a4cce7df19fd926",
+    "type": "split",
+    "children": [
+      {
+        "id": "7290aad08ec10e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4871c04f02495ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f383505ee0ae464",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67d4813bd15a8ad1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f8b60742b6e0fb16",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff6730c046e052ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a09066ddbd1cd60d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tipo número.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c2642cc38e7e0ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tipo número.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30deee131d329382",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d73e7b17f1cfdc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tipo número.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0d86b52e6f9bdc08",
+  "lastOpenFiles": [
+    "Tipos.md",
+    "JSON-schema.md",
+    "Palabra clave type.md",
+    "metadata title, description y default.md",
+    "Diagrama de interrelacion de documentos.md",
+    "DID ternarias.md",
+    "Documentos intermedios.md",
+    "Tipo Object.md",
+    "Tipo número.md",
+    "Tipo String.md",
+    "JSON.md",
+    "Estructura JSON.md",
+    "Modelización.md",
+    "Documentos.md",
+    "Agregación.md",
+    "Pasted image 20231017120856.png",
+    "Pasted image 20231017120740.png",
+    "Pasted image 20231017120127.png",
+    "Pasted image 20231017115955.png",
+    "Pasted image 20231017115118.png",
+    "Pasted image 20231017114330.png",
+    "Pasted image 20231017114308.png",
+    "Pasted image 20231017114237.png",
+    "Pasted image 20231017114216.png",
+    "Pasted image 20231017114146.png",
+    "Lógica y Computabilidad.md"
+  ]
+}
