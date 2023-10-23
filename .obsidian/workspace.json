@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "serializable schedule (historia serializable).md",
+                "file": "Concurrencia y Recuperabilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "serializable schedule (historia serializable).md",
+                "file": "Concurrencia y Recuperabilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "serializable schedule (historia serializable).md",
+                "file": "Concurrencia y Recuperabilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "serializable schedule (historia serializable).md"
+                "file": "Concurrencia y Recuperabilidad.md"
               }
             }
           }
@@ -162,16 +162,23 @@
   },
   "active": "190a61cfee15e684",
   "lastOpenFiles": [
+    "Serialización e historia.md",
+    "Concurrencia y Recuperabilidad.md",
+    "schedules(historia).md",
+    "serial schedules (historia serial).md",
+    "serializable schedule (historia serializable).md",
+    "Como testear por serializable.md",
+    "Grafo de precedencia.md",
+    "operaciones conflictivas.md",
+    "conflicto equivalente.md",
+    "Principios de modelado de datos.md",
+    "transacciones.md",
+    "Pasted image 20231023190626.png",
+    "¿Cómo testear por serializable",
     "Pasted image 20231023140119.png",
     "Pasted image 20231023140024.png",
-    "schedules(historia).md",
-    "serializable schedule (historia serializable).md",
-    "serial schedules (historia serial).md",
-    "Serialización y historia.md",
     "Pasted image 20231023132716.png",
-    "transacciones.md",
     "Pasted image 20231023132022.png",
-    "Concurrencia y Recuperabilidad.md",
     "Tipo array.md",
     "Tipos.md",
     "JSON-schema.md",
@@ -187,16 +194,10 @@
     "Encontrar el rating promedio de un artefacto dado.md",
     "Encontrar los usuarios que les gusto un artefacto dado y tienen experiencia en un área dada.md",
     "Encontrar los usuarios que les gusto un artefacto dado.md",
-    "Encontrar los artefactos publicados por un autor dado, ordenando los resultados por año descendiente.md",
     "Pasted image 20231021133824.png",
-    "capítulo 24.5 pearson.md",
-    "Modelización.md",
-    "reglas de mapeo.md",
     "Pasted image 20231020193645.png",
     "Pasted image 20231020193559.png",
     "Pasted image 20231020193514.png",
-    "Pasted image 20231020193259.png",
-    "Pasted image 20231020192941.png",
-    "Pasted image 20231020192830.png"
+    "Pasted image 20231020193259.png"
   ]
 }

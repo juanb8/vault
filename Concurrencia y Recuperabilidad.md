@@ -1,1 +1,3 @@
-[[Serialización y historia]]
+[[Serialización e historia]]
+
+[[Recuperabilidad]]
