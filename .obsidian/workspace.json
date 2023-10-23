@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a900c581469d17",
+        "id": "d0798e8fab10de5f",
         "type": "tabs",
         "children": [
           {
-            "id": "0d86b52e6f9bdc08",
+            "id": "932d262d0c15a5ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tipo número.md",
+                "file": "Tipo array.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c867f61825475e12",
+            "id": "190a61cfee15e684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metadata title, description y default.md",
+                "file": "serializable schedule (historia serializable).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tipo número.md",
+                "file": "serializable schedule (historia serializable).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tipo número.md",
+                "file": "serializable schedule (historia serializable).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tipo número.md"
+                "file": "serializable schedule (historia serializable).md"
               }
             }
           }
@@ -159,33 +160,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d86b52e6f9bdc08",
+  "active": "190a61cfee15e684",
   "lastOpenFiles": [
+    "Pasted image 20231023140119.png",
+    "Pasted image 20231023140024.png",
+    "schedules(historia).md",
+    "serializable schedule (historia serializable).md",
+    "serial schedules (historia serial).md",
+    "Serialización y historia.md",
+    "Pasted image 20231023132716.png",
+    "transacciones.md",
+    "Pasted image 20231023132022.png",
+    "Concurrencia y Recuperabilidad.md",
+    "Tipo array.md",
     "Tipos.md",
     "JSON-schema.md",
-    "Palabra clave type.md",
-    "metadata title, description y default.md",
-    "Diagrama de interrelacion de documentos.md",
-    "DID ternarias.md",
-    "Documentos intermedios.md",
-    "Tipo Object.md",
-    "Tipo número.md",
-    "Tipo String.md",
-    "JSON.md",
-    "Estructura JSON.md",
+    "A Big Data Modeling Methodologyfor Apache Cassandra.md",
+    "Logical data modeling.md",
+    "Column family.md",
+    "Column families.md",
+    "Ejercicios   a big data modeling methodology.md",
+    "Encontrar artefactos publicados después de un cierto año que un usuario dado le gustó. Ordenando los resultados por año descendiente.md",
+    "Encontrar reviews posteadas por un usuario dado que tienen un rating mayor o igual a x. Ordenando los resultados por rating descendiente.md",
+    "Encontrar sedes que un usuario dado le gusto.md",
+    "Encontrar la información de un artefacto a partir de un id dado.md",
+    "Encontrar el rating promedio de un artefacto dado.md",
+    "Encontrar los usuarios que les gusto un artefacto dado y tienen experiencia en un área dada.md",
+    "Encontrar los usuarios que les gusto un artefacto dado.md",
+    "Encontrar los artefactos publicados por un autor dado, ordenando los resultados por año descendiente.md",
+    "Pasted image 20231021133824.png",
+    "capítulo 24.5 pearson.md",
     "Modelización.md",
-    "Documentos.md",
-    "Agregación.md",
-    "Pasted image 20231017120856.png",
-    "Pasted image 20231017120740.png",
-    "Pasted image 20231017120127.png",
-    "Pasted image 20231017115955.png",
-    "Pasted image 20231017115118.png",
-    "Pasted image 20231017114330.png",
-    "Pasted image 20231017114308.png",
-    "Pasted image 20231017114237.png",
-    "Pasted image 20231017114216.png",
-    "Pasted image 20231017114146.png",
-    "Lógica y Computabilidad.md"
+    "reglas de mapeo.md",
+    "Pasted image 20231020193645.png",
+    "Pasted image 20231020193559.png",
+    "Pasted image 20231020193514.png",
+    "Pasted image 20231020193259.png",
+    "Pasted image 20231020192941.png",
+    "Pasted image 20231020192830.png"
   ]
 }

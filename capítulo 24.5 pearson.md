@@ -1,0 +1,3 @@
+Big table, el sistema de almacenamiento de Google es un ejemplo de esta clase de sistema NO SQL. 
+
+A veces se describe como un mapa ordenado multidimensional distribuido persistentemente.  Donde mapa se entiendo como una colección  clave-valor. La diferencia entre esto y key-value es que en column-based, la clave es multidimensional , es decir tiene distintos componenetes (nombre de la tabla, filas de clave, columnas,divida entre column family y column qualifier,  y timestamp). 

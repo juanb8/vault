@@ -1,0 +1,1 @@
+El principio de correctitúd dice que toda transacción si se ejecuta por sí misma, pasa de un estado  consistente a otro estado consistente (i.e si haces un write a una base de datos,  funciona sin problemas). El problema surge cuando se quiere hacer todo al mismo tiempo. Entonces surguen los conceptos de [[transacciones]] , [[schedules(historia)]]
